@@ -22,7 +22,7 @@
 		<b>I will leave my github link here :D (GO CHECK IT OUT)</b><br>
 		<a href="https://github.com/3faze" target="_blank">Link to github</a>
 	</p>
-	<img src="images.png" border="5">
+	<img src="https://www.nicepng.com/png/detail/18-181114_smiley-smile-smiley-faces-emojis-pb-logo-geocaching.png" border="5">
 	<br>
 	Heres are some blox fruits swords :D
 	<ul>
